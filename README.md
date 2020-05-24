@@ -10,3 +10,11 @@ The following diagram provides a hight level perspective of the work-flow of a G
 
 ![](Overview.png)
 
+
+The loss function we are trying to optimize:
+
+![](Loss.png)
+
+## References 
+
+[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
