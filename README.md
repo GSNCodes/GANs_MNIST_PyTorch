@@ -15,6 +15,14 @@ The loss function we are trying to optimize:
 
 ![](Loss.png)
 
+
+## Output
+You can find the output generated after each epoch in the `output` folder.  
+
+I have also accumulated them and created a video named `Output_GAN.mp4`.
+
+![](output/Output_Gif.gif)
+
 ## References 
 
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
