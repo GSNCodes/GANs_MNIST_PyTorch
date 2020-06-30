@@ -21,7 +21,10 @@ You can find the output generated after each epoch in the `output` folder.
 
 I have also accumulated them and created a video named `Output_GAN.mp4`.
 
-![](output/Output_Gif.gif)
+Output after 300 epochs
+
+![](output/generated_image_0300.png)
+![](output/Output_Gif.gif) 
 
 ## References 
 
